@@ -1,0 +1,5 @@
+print('Your name:')
+s1 = input()
+print('Your surname:')
+s2 = input()
+print('Hello ' + s1 + ' ' + s2 + '!')
